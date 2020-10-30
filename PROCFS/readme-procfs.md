@@ -1,7 +1,3 @@
-VACARU ALEXANDRA
-OLTEANU ANA-MARIA
-FILIP IOANA
-GRUPA 243 
 
 - am creat o structura pentru a retine toate datele despre un proces
 
